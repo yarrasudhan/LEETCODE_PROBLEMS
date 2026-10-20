@@ -24,4 +24,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/yarrasudhan/LEETCODE_PROBLEMS/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
